@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=oak": { "model": "tm:tudor_oak" },
+        "variant=spruce": { "model": "tm:tudor_spruce" }
+    }
+}

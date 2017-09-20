@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "TestMod1",
+  "description": "Testing, 1, 2, 3",
+  "version": "Pre-Alpha v0.1",
+  "mcversion": "1.12.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eridiah"],
+  "credits": "I don't really know lmao",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
