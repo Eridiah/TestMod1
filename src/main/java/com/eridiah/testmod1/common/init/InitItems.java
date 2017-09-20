@@ -12,17 +12,23 @@ public class InitItems
 {
 	public static Item broken_blade;
 	public static Item tin_ingot;
+	
+	public static Item daub;
 
 	public static void init() 
 	{
 		broken_blade = new ItemBasic("broken_blade");
 		tin_ingot = new ItemBasic("tin_ingot");
+		
+		daub = new ItemBasic("daub");
 	}
 	
 	public static void register()
 	{
 		registerItem(broken_blade);
 		registerItem(tin_ingot);
+		
+		registerItem(daub);
 	}
 	
 	public static void registerItem(Item item)

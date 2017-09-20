@@ -1,6 +1,8 @@
 item.broken_blade.name=Broken Blade
 item.tin_ingot.name=Tin Ingot
 
+item.daub.name=Daub
+
 tile.tin_ore.name=Tin Ore
 tile.tin_block.name=Block of Tin
 
