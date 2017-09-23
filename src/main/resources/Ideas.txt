@@ -1,0 +1,10 @@
+Items
+---------
+- Chain mail variants | fully craftable with differents stats
+- Custom Chain mail armor with custom rendering
+- More medieval weapons
+
+Blocks
+---------
+- Tudor variants | one for each type of wood + any other wood types added
+- Different wood types with custom generating trees

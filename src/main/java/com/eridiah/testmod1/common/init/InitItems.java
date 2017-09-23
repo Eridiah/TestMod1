@@ -13,12 +13,18 @@ public class InitItems
 	public static Item broken_blade;
 	public static Item tin_ingot;
 	
+	public static Item iron_ring;
+	public static Item chain_mail;
+	
 	public static Item daub;
 
 	public static void init() 
 	{
 		broken_blade = new ItemBasic("broken_blade");
 		tin_ingot = new ItemBasic("tin_ingot");
+		
+		iron_ring = new ItemBasic("iron_ring");
+		chain_mail = new ItemBasic("chain_mail");
 		
 		daub = new ItemBasic("daub");
 	}
@@ -27,6 +33,9 @@ public class InitItems
 	{
 		registerItem(broken_blade);
 		registerItem(tin_ingot);
+		
+		registerItem(iron_ring);
+		registerItem(chain_mail);
 		
 		registerItem(daub);
 	}
