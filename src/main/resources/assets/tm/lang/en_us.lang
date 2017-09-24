@@ -2,6 +2,10 @@ item.broken_blade.name=Broken Blade
 item.tin_ingot.name=Tin Ingot
 
 item.iron_ring.name=Iron Ring
+item.gold_ring.name=Gold Ring
+item.diamond_ring.name=Diamond Ring
+item.emerald_ring.name=Emerald Ring
+
 item.chain_mail.name=Chain Mail
 
 item.daub.name=Daub

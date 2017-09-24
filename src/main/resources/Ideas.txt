@@ -1,6 +1,10 @@
 Items
 ---------
 - Chain mail variants | fully craftable with differents stats
+    - Tin
+    - Copper
+    - Steel
+    
 - Custom Chain mail armor with custom rendering
 - More medieval weapons
 

@@ -22,6 +22,10 @@ public class RecipeHandler
 		
 		// Recipes for Chain Stuff
 		GameRegistry.addShapedRecipe(new ResourceLocation("tm:iron_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.iron_ring), new Object[] {"III", "I I", "III", 'I', Items.IRON_INGOT});
+		GameRegistry.addShapedRecipe(new ResourceLocation("tm:gold_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.gold_ring), new Object[] {"GGG", "G G", "GGG", 'G', Items.GOLD_INGOT});
+		GameRegistry.addShapedRecipe(new ResourceLocation("tm:diamond_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.diamond_ring), new Object[] {"DDD", "D D", "DDD", 'D', Items.DIAMOND});
+		GameRegistry.addShapedRecipe(new ResourceLocation("tm:emerald_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.emerald_ring), new Object[] {"EEE", "E E", "EEE", 'E', Items.EMERALD});
+		
 		GameRegistry.addShapedRecipe(new ResourceLocation("tm:chain_mail"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.chain_mail), new Object[] {" I ", "III", " I ", 'I', InitItems.iron_ring});
 		
 		GameRegistry.addShapedRecipe(new ResourceLocation("tm:chainmail_helmet"), new ResourceLocation("tm:testing_armor"), new ItemStack(Items.CHAINMAIL_HELMET), new Object[] {"CCC", "C C", 'C', InitItems.chain_mail});
