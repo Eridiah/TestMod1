@@ -25,6 +25,9 @@ public class RecipeHandler
 		GameRegistry.addShapedRecipe(new ResourceLocation("tm:gold_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.gold_ring), new Object[] {"GGG", "G G", "GGG", 'G', Items.GOLD_INGOT});
 		GameRegistry.addShapedRecipe(new ResourceLocation("tm:diamond_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.diamond_ring), new Object[] {"DDD", "D D", "DDD", 'D', Items.DIAMOND});
 		GameRegistry.addShapedRecipe(new ResourceLocation("tm:emerald_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.emerald_ring), new Object[] {"EEE", "E E", "EEE", 'E', Items.EMERALD});
+		GameRegistry.addShapedRecipe(new ResourceLocation("tm:tin_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.tin_ring), new Object[] {"TTT", "T T", "TTT", 'T', InitItems.tin_ingot});
+		GameRegistry.addShapedRecipe(new ResourceLocation("tm:copper_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.copper_ring), new Object[] {"CCC", "C C", "CCC", 'C', InitItems.copper_ingot});
+		GameRegistry.addShapedRecipe(new ResourceLocation("tm:steel_ring"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.steel_ring), new Object[] {"SSS", "S S", "SSS", 'S', InitItems.steel_ingot});
 		
 		GameRegistry.addShapedRecipe(new ResourceLocation("tm:chain_mail"), new ResourceLocation("tm:testing_items"), new ItemStack(InitItems.chain_mail), new Object[] {" I ", "III", " I ", 'I', InitItems.iron_ring});
 		

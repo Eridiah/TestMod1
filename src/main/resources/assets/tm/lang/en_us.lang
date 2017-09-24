@@ -1,10 +1,16 @@
 item.broken_blade.name=Broken Blade
+
 item.tin_ingot.name=Tin Ingot
+item.copper_ingot.name=Copper Ingot
+item.steel_ingot.name=Steel Ingot
 
 item.iron_ring.name=Iron Ring
 item.gold_ring.name=Gold Ring
 item.diamond_ring.name=Diamond Ring
 item.emerald_ring.name=Emerald Ring
+item.tin_ring.name=Tin Ring
+item.copper_ring.name=Copper Ring
+item.steel_ring.name=Steel Ring
 
 item.chain_mail.name=Chain Mail
 
